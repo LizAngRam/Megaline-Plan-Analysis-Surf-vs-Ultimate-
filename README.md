@@ -1,2 +1,2 @@
 # Megaline-Plan-Analysis-Surf-vs-Ultimate-
-This project analyzes customer behavior for Megaline, a telecom operator, to determine which prepaid plan (Surf or Ultimate) generates more revenue.
+This project analyzes customer behavior for Megaline, a telecom operator, to determine which prepaid plan (Surf or Ultimate) generates more revenue. It explores user activity in calls, messages, and internet usage, and evaluates how these behaviors impact monthly revenue. The analysis also includes statistical testing to compare revenue between plans and across regions (NY-NJ vs other areas).
